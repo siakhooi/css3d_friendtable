@@ -1,3 +1,3 @@
-# css3d_periodictable_with_ge14_MPs
+# css3d_periodictable_code_changes
 
-* [https://siakhooi.github.io/css3d_periodictable_with_ge14_MPs/](https://siakhooi.github.io/css3d_periodictable_with_ge14_MPs/)
+* [https://github.com/siakhooi/css3d_periodictable_code_changes/](https://github.com/siakhooi/css3d_periodictable_code_changes/)
